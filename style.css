@@ -1,0 +1,42 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    font-size:20px ;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .copy_right_footer{
+    text-align: center;
+    position: fixed;
+    background-color: violet;
+    color: crimson;
+    width: 100%;
+    bottom:0;
+    line-height: 3;
+  }
+
+  canvas{
+    background-color: darkslateblue;
+  }
+
+  
+ 
